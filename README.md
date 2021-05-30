@@ -4,7 +4,7 @@ Eiffel Projects developed to get a better understand of software design.
 
 Chess: simulation of a chess game with the ability to Play, Move King, Move Knight, Redo last turn, and Undo last turn.
 
-Database: simulation of a balance binary search tree and splay tree with regression testing.
+Database: A balance binary search tree and splay tree with regression testing.
 
 Maze: simulation of a maze game, where the objective is for the player to get out of the maze. If unable to do so, a automatic solver is implemented. 
 
