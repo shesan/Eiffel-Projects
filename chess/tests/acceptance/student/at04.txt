@@ -1,0 +1,6 @@
+move_knight([4,3])
+play(5)
+move_knight([4,3])
+move_king([1,1])
+move_king([1,2])
+move_king([2,2])

@@ -1,0 +1,6 @@
+move_king([2,2])
+play(5)
+move_king([2,2])
+move_king([1,1])
+move_king([1,2])
+move_king([2,2])

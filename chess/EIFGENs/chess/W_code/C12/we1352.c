@@ -1,0 +1,508 @@
+/*
+ * Code for class WEL_COLOR_CONSTANTS
+ */
+
+#include "eif_eiffel.h"
+#include "../E1/estructure.h"
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_TYPED_VALUE F1352_14265(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14266(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14267(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14268(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14269(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14270(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14271(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14272(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14273(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14274(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14275(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14276(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14277(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14278(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14279(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14280(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14281(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14282(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14283(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14284(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14285(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14286(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14287(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14288(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14289(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14290(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14291(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14292(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14293(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14294(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14295(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14296(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14297(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14298(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14299(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14300(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1352_14301(EIF_REFERENCE, EIF_TYPED_VALUE);
+extern void EIF_Minit1352(void);
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+/* {WEL_COLOR_CONSTANTS}.color_scrollbar */
+EIF_TYPED_VALUE F1352_14265 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_background */
+EIF_TYPED_VALUE F1352_14266 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_desktop */
+EIF_TYPED_VALUE F1352_14267 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_activecaption */
+EIF_TYPED_VALUE F1352_14268 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 2L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_inactivecaption */
+EIF_TYPED_VALUE F1352_14269 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 3L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_menu */
+EIF_TYPED_VALUE F1352_14270 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 4L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_window */
+EIF_TYPED_VALUE F1352_14271 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 5L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_windowframe */
+EIF_TYPED_VALUE F1352_14272 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 6L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_menutext */
+EIF_TYPED_VALUE F1352_14273 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 7L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_windowtext */
+EIF_TYPED_VALUE F1352_14274 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 8L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_captiontext */
+EIF_TYPED_VALUE F1352_14275 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 9L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_activeborder */
+EIF_TYPED_VALUE F1352_14276 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 10L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_inactiveborder */
+EIF_TYPED_VALUE F1352_14277 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 11L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_appworkspace */
+EIF_TYPED_VALUE F1352_14278 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 12L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_highlight */
+EIF_TYPED_VALUE F1352_14279 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 13L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_highlighttext */
+EIF_TYPED_VALUE F1352_14280 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 14L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_3dface */
+EIF_TYPED_VALUE F1352_14281 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 15L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_btnface */
+EIF_TYPED_VALUE F1352_14282 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 15L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_3dshadow */
+EIF_TYPED_VALUE F1352_14283 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 16L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_btnshadow */
+EIF_TYPED_VALUE F1352_14284 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 16L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_graytext */
+EIF_TYPED_VALUE F1352_14285 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 17L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_btntext */
+EIF_TYPED_VALUE F1352_14286 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 18L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_inactivecaptiontext */
+EIF_TYPED_VALUE F1352_14287 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 19L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_3dhilight */
+EIF_TYPED_VALUE F1352_14288 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 20L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_3dhighlight */
+EIF_TYPED_VALUE F1352_14289 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 20L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_btnhilight */
+EIF_TYPED_VALUE F1352_14290 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 20L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_btnhighlight */
+EIF_TYPED_VALUE F1352_14291 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 20L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_3ddkshadow */
+EIF_TYPED_VALUE F1352_14292 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 21L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_3dlight */
+EIF_TYPED_VALUE F1352_14293 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 22L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_infotext */
+EIF_TYPED_VALUE F1352_14294 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 23L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_infobk */
+EIF_TYPED_VALUE F1352_14295 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 24L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_hotlight */
+EIF_TYPED_VALUE F1352_14296 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 26L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_gradientactivecaption */
+EIF_TYPED_VALUE F1352_14297 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 27L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_gradientinactivecaption */
+EIF_TYPED_VALUE F1352_14298 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 28L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_menuhilight */
+EIF_TYPED_VALUE F1352_14299 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 29L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.color_menubar */
+EIF_TYPED_VALUE F1352_14300 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 30L);
+	return r;
+}
+
+/* {WEL_COLOR_CONSTANTS}.valid_color_constant */
+EIF_TYPED_VALUE F1352_14301 (EIF_REFERENCE Current, EIF_TYPED_VALUE arg1x)
+{
+	GTCX
+	char *l_feature_name = "valid_color_constant";
+	RTEX;
+#define arg1 arg1x.it_i4
+	EIF_INTEGER_32 ti4_1;
+	EIF_INTEGER_32 ti4_2;
+	EIF_INTEGER_32 ti4_3;
+	EIF_INTEGER_32 ti4_4;
+	EIF_INTEGER_32 ti4_5;
+	EIF_INTEGER_32 ti4_6;
+	EIF_INTEGER_32 ti4_7;
+	EIF_INTEGER_32 ti4_8;
+	EIF_INTEGER_32 ti4_9;
+	EIF_INTEGER_32 ti4_10;
+	EIF_INTEGER_32 ti4_11;
+	EIF_INTEGER_32 ti4_12;
+	EIF_INTEGER_32 ti4_13;
+	EIF_INTEGER_32 ti4_14;
+	EIF_INTEGER_32 ti4_15;
+	EIF_INTEGER_32 ti4_16;
+	EIF_INTEGER_32 ti4_17;
+	EIF_INTEGER_32 ti4_18;
+	EIF_INTEGER_32 ti4_19;
+	EIF_INTEGER_32 ti4_20;
+	EIF_INTEGER_32 ti4_21;
+	EIF_INTEGER_32 ti4_22;
+	EIF_INTEGER_32 ti4_23;
+	EIF_INTEGER_32 ti4_24;
+	EIF_INTEGER_32 ti4_25;
+	EIF_INTEGER_32 ti4_26;
+	EIF_INTEGER_32 ti4_27;
+	EIF_INTEGER_32 ti4_28;
+	EIF_INTEGER_32 ti4_29;
+	EIF_INTEGER_32 ti4_30;
+	EIF_BOOLEAN Result = ((EIF_BOOLEAN) 0);
+	
+	RTCDT;
+	RTSN;
+	RTDA;
+	RTLD;
+	
+	if ((arg1x.type & SK_HEAD) == SK_REF) arg1x.it_i4 = * (EIF_INTEGER_32 *) arg1x.it_r;
+	
+	RTLI(1);
+	RTLR(0,Current);
+	RTLIU(1);
+	RTLU (SK_BOOL, &Result);
+	RTLU(SK_INT32,&arg1);
+	RTLU (SK_REF, &Current);
+	
+	RTEAA(l_feature_name, 1351, Current, 0, 1, 20833);
+	RTSA(dtype);
+	RTSC;
+	RTME(dtype, 0);
+	RTGC;
+	RTDBGEAA(1351, Current, 20833);
+	RTIV(Current, RTAL);
+	RTHOOK(1);
+	RTDBGAL(0, 0x04000000, 1,0); /* Result */
+	ti4_1 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11850, dtype))(Current)).it_i4);
+	ti4_2 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11839, dtype))(Current)).it_i4);
+	ti4_3 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11846, dtype))(Current)).it_i4);
+	ti4_4 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11851, dtype))(Current)).it_i4);
+	ti4_5 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11841, dtype))(Current)).it_i4);
+	ti4_6 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11834, dtype))(Current)).it_i4);
+	ti4_7 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11826, dtype))(Current)).it_i4);
+	ti4_8 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11836, dtype))(Current)).it_i4);
+	ti4_9 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11824, dtype))(Current)).it_i4);
+	ti4_10 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11844, dtype))(Current)).it_i4);
+	ti4_11 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11833, dtype))(Current)).it_i4);
+	ti4_12 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11855, dtype))(Current)).it_i4);
+	ti4_13 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11856, dtype))(Current)).it_i4);
+	ti4_14 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11843, dtype))(Current)).it_i4);
+	ti4_15 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11837, dtype))(Current)).it_i4);
+	ti4_16 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11838, dtype))(Current)).it_i4);
+	ti4_17 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11854, dtype))(Current)).it_i4);
+	ti4_18 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11835, dtype))(Current)).it_i4);
+	ti4_19 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11827, dtype))(Current)).it_i4);
+	ti4_20 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11845, dtype))(Current)).it_i4);
+	ti4_21 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11853, dtype))(Current)).it_i4);
+	ti4_22 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11852, dtype))(Current)).it_i4);
+	ti4_23 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11828, dtype))(Current)).it_i4);
+	ti4_24 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11857, dtype))(Current)).it_i4);
+	ti4_25 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11858, dtype))(Current)).it_i4);
+	ti4_26 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11831, dtype))(Current)).it_i4);
+	ti4_27 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11823, dtype))(Current)).it_i4);
+	ti4_28 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11829, dtype))(Current)).it_i4);
+	ti4_29 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11830, dtype))(Current)).it_i4);
+	ti4_30 = (((FUNCTION_CAST(EIF_TYPED_VALUE, (EIF_REFERENCE)) RTWF(11832, dtype))(Current)).it_i4);
+	Result = (EIF_BOOLEAN) (EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN) ((EIF_BOOLEAN)(arg1 == ti4_1) || (EIF_BOOLEAN)(arg1 == ti4_2)) || (EIF_BOOLEAN)(arg1 == ti4_3)) || (EIF_BOOLEAN)(arg1 == ti4_4)) || (EIF_BOOLEAN)(arg1 == ti4_5)) || (EIF_BOOLEAN)(arg1 == ti4_6)) || (EIF_BOOLEAN)(arg1 == ti4_7)) || (EIF_BOOLEAN)(arg1 == ti4_8)) || (EIF_BOOLEAN)(arg1 == ti4_9)) || (EIF_BOOLEAN)(arg1 == ti4_10)) || (EIF_BOOLEAN)(arg1 == ti4_11)) || (EIF_BOOLEAN)(arg1 == ti4_12)) || (EIF_BOOLEAN)(arg1 == ti4_13)) || (EIF_BOOLEAN)(arg1 == ti4_14)) || (EIF_BOOLEAN)(arg1 == ti4_15)) || (EIF_BOOLEAN)(arg1 == ti4_16)) || (EIF_BOOLEAN)(arg1 == ti4_17)) || (EIF_BOOLEAN)(arg1 == ti4_18)) || (EIF_BOOLEAN)(arg1 == ti4_19)) || (EIF_BOOLEAN)(arg1 == ti4_20)) || (EIF_BOOLEAN)(arg1 == ti4_21)) || (EIF_BOOLEAN)(arg1 == ti4_22)) || (EIF_BOOLEAN)(arg1 == ti4_23)) || (EIF_BOOLEAN)(arg1 == ti4_24)) || (EIF_BOOLEAN)(arg1 == ti4_25)) || (EIF_BOOLEAN)(arg1 == ti4_26)) || (EIF_BOOLEAN)(arg1 == ti4_27)) || (EIF_BOOLEAN)(arg1 == ti4_28)) || (EIF_BOOLEAN)(arg1 == ti4_29)) || (EIF_BOOLEAN)(arg1 == ti4_30));
+	RTVI(Current, RTAL);
+	RTRS;
+	RTHOOK(2);
+	RTDBGLE;
+	RTMD(0);
+	RTLE;
+	RTLO(3);
+	RTEE;
+	{ EIF_TYPED_VALUE r; r.type = SK_BOOL; r.it_b = Result; return r; }
+#undef arg1
+}
+
+void EIF_Minit1352 (void)
+{
+	GTCX
+}
+
+
+#ifdef __cplusplus
+}
+#endif
